@@ -1,4 +1,4 @@
-import StrategyPatternExamples.Person;
+import P1StrategyPatternExamples.Person;
 
 public class Main {
     public static void main(String[] args) {

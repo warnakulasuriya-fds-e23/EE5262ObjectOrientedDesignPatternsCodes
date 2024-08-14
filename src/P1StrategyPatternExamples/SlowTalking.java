@@ -1,4 +1,4 @@
-package StrategyPatternExamples;
+package P1StrategyPatternExamples;
 
 public class SlowTalking implements TalkingBehaviours {
     public void talk(){

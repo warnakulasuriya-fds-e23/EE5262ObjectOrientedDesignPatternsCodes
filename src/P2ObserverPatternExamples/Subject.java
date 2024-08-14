@@ -1,4 +1,4 @@
-package ObserverPatternExamples;
+package P2ObserverPatternExamples;
 
 public interface Subject {
     void AddObserver(Observer newObserver);
